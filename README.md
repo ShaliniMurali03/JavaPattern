@@ -1,6 +1,8 @@
 # JavaPattern
 Ineuron.ai_Full Stack JAVA Developer Assignment_1
+
 Ineuron_Pattern.java -- Write a program(WAP) to print INEURON using pattern programming logic.
+
 ![image](https://user-images.githubusercontent.com/117591791/203626673-fa528b04-cf78-4389-8fdf-4a3c1f51fbdc.png)
 
 Number_Pattern.java  -- Write a program to print
